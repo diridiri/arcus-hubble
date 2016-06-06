@@ -25,7 +25,7 @@ tar xvf node-v0.10.28-linux-x64.tar.gz
 ln -s node-v0.10.28-linux-x64 node
 
 # set environment variable
-export NODE_HOME=$HOME/vendor/node
+export NODE_HOME=$HOME/node
 export PATH=$NODE_HOME/bin:$PATH
 ```
 
